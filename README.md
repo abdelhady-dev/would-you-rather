@@ -52,8 +52,7 @@
 
 [![Product Name Screen Shot][product-screenshot]]()
 
-In the MyReads project, i create a bookshelf app that allows you to select and categorize books you have read, are currently reading, or want to read. The project emphasizes using React to build the application and provides an API server and client library that use to persist information as you interact with the application.
-
+In the "Would You Rather?" Project, i build a web app that lets a user play the “Would You Rather?” game. The game goes like this: A user is asked a question in the form: “Would you rather [option A] or [option B] ?”. Answering "neither" or "both" is against the rules.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
